@@ -1,0 +1,21 @@
+
+.body {
+	background-color:#fff;
+}
+.navmenu {
+	font-family: 'Times New Roman';
+	color:rgb(0, 255, 55);
+	font-size: 150%;
+	text-decoration: none;
+}
+.title{
+	font-family: 'arial black';
+	color:rgb(119, 0, 255);
+	font-size: 250%;	
+	text-decoration: none;
+    text-align: center;
+}
+.paragraph{
+	font-family: 'arial black';
+    font-size: 250%;
+}
